@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-# Dominik's Submission
+## Dominik's Submission
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 

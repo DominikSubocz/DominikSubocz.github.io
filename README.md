@@ -37,4 +37,4 @@ I don't plan to share this solution on any social media apart from keeping it pu
 
 Feel free to share this solution with your friends.
 
-**Have fun building!** 🚀
+**Many Thanks!** 🚀
